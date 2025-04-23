@@ -12,7 +12,7 @@
 
 ## About Me! 😎
 
-<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🏫 A.S. in Programming & Analysis – Santa Fe College  
 - 🌐 Building clean, responsive websites using WordPress, HTML/CSS, JS & SEO  
@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I play soccer in my free time ⚽  
 
 ---
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 ## 📬 Get in Touch!
 
